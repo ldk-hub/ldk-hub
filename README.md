@@ -1,7 +1,7 @@
 안녕하세요 ~  Hi, There ~
 <h3 align="left">Study ing...</h3>
 
-||  
+|study|ing|...|
 |---|---|---|  
 |:Algorithm:|:MSA:|:docker:|   
 |:JPA:|:TDD:|:effective java:|  
