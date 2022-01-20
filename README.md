@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee Dong Ok%20HiThere&fontSize=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeDongOk%20HiThere&fontSize=55)
 
 안녕하세요 ~  Hi, There ~
 
