@@ -5,10 +5,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp<br><br>
 
 <div align=center> <h3>✏️2022 STUDYING...</h3> </div>
-<img src="https://img.shields.io/badge/MSA-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Algorithm-F5455C?style=flat&logo=Java&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/TESTCODE-AA00FF?style=flat&logo=&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/EffectiveJava-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp<br>
+<img src="https://img.shields.io/badge/MSA-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Algorithm-F5455C?style=flat&logo=Java&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/TESTCODE-AA00FF?style=flat&logo=&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/EffectiveJava-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp<br><br>
+
+<div align=center> <h3>:astronaut: 관심기술스택</h3> </div>
+<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>&nbsp
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldk-hub&hide=contribs&count_private=true&show_icons=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center> <h3>:astronaut: 관심기술스택</h3> </div>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 </div>
