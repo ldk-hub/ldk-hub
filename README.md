@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20Experience%20Tech-List%20&fontSize=45)
-<div>
+<div align="center">
 <div align="center">
 <h2 align="center">BE TECH STACK🛠️</h2></div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
