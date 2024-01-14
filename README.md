@@ -12,7 +12,7 @@
   
 <div align=center>
   <div align=center> <h3>✨STACK TOLL✨</h3> </div>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badgedbeaver-382923?style=flat&logo=DBeaver&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
