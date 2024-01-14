@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20Experience%20Tech-List%20&fontSize=45)
-
-<h2 align="center">BE TECH STACK🛠️</h2><br>
+<div align="center">
+<h2 align="center">BE TECH STACK🛠️</h2><br></div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
@@ -13,20 +13,23 @@
 <img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/><br>
 
-<h2 align="center">FE TECH STACK✨</h2><br>
+<div align="center">
+<h2 align="center">FE TECH STACK✨</h2><br></div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/></a>&nbsp<br>
-  
-<h2 align="center">DB STACK📚</h2><br>
+
+<div align="center">
+<h2 align="center">DB STACK📚</h2><br></div>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=black"/></a>&nbsp<br>
 
-<h2 align="center">TOOL STACK📥</h2><br>
+<div align="center">
+<h2 align="center">TOOL STACK📥</h2><br></div>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=DBeaver&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
