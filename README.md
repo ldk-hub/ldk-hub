@@ -2,7 +2,8 @@
 <div align=center>
   <div align=center> <h3>✨BE TECH STACK✨</h3> </div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringDataJpa&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
+  <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=black"/><br></a>&nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/></a>&nbsp
