@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20Experience%20Tech-List%20&fontSize=45)
 <div align=center>
-  <div align=center> <h3>✨BE TECH STACK✨</h3> </div>
+<h2 align="center">CBE TECH STACK✨</h2><br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=black"/></a>&nbsp<br>
 
 <div align=center>
-  <div align=center> <h3>✨STACK TOLL✨</h3> </div>
+  <div align=center> <h3>✨STACK TOOL✨</h3> </div>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=DBeaver&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
