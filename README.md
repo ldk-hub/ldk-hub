@@ -6,13 +6,14 @@
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=black"/><br></a>&nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/><br></a>&nbsp
+<img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp<br><br>
 
 <div align=center>
   <div align=center> <h3>✨FE TECH STACK✨</h3> </div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></a>&nbsp
@@ -29,6 +30,7 @@
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=DBeaver&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=GitHub&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/svn-FFB13B?style=flat&logo=&logoColor=white"/></a>&nbsp<br><br>
 
 <div align=center> <h3>✏️2024 STUDYING...</h3> </div>
