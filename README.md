@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20Experience%20Tech-List%20&fontSize=45)
+<a href="https://velog.io/@seondal">![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi~%20Experience%20Tech-List%20&fontSize=45)</a>
 <div align="center">
 <div align="center">
 <h2 align="center">BE TECH STACK🛠️</h2></div>
