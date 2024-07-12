@@ -1,5 +1,7 @@
 <a href="https://github.com/ldk-hub/DashBoard">![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Welcome%20ldk-hub-nl-%20포트폴리오%20바로가기(클릭)&fontAlign=49&animation=fadeIn&fontSize=45&reversal=true&textBg=false)</a>
 <div align="center">
+[ldk 블로그 사이트 바로가기](https://ldk-hub.github.io/)
+  
 <div align="center">
 <h2 align="center">BE TECH STACK🛠️</h2></div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
