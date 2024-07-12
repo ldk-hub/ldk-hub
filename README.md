@@ -3,7 +3,6 @@
 
   
 <div align="center">
-  [ldk 개발 블로그](https://ldk-hub.github.io/)
 <h2 align="center">BE TECH STACK🛠️</h2></div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
