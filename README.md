@@ -11,7 +11,11 @@
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"/></a>&nbsp  
+<img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/><br>
+
 
 <div align="center">
 <h2 align="center">Front-end stack</h2></div>
@@ -38,6 +42,9 @@
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white"/></a>&nbsp<br>
 
 <div align=center> <h3>:astronaut: 관심 및 스터디</h3> </div>
-<img src="https://img.shields.io/badge/MSA-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Algorithm-F5455C?style=flat&logo=Java&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/TESTCODE-AA00FF?style=flat&logo=&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/EffectiveJava-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Quasar-1976D2?style=flat&logo=Quasar&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js IDEA&logoColor=white"/></a>&nbsp<br>
-<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"/></a>&nbsp<img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white"/></a>&nbsp<img src="https://img.shields.io/badge/kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"/></a>&nbsp<br>
+<img src="https://img.shields.io/badge/MSA-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp</a>&nbsp
+<img src="https://img.shields.io/badge/EffectiveJava-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"/></a>&nbsp<br>
 </div>
