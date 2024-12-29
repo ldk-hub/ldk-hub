@@ -1,5 +1,5 @@
- - 이력서 : https://ldk-hub.github.io/about/
- - 포트폴리오 :[포트폴리오](https://ldk-hub.github.io/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/realtime_system/)
+ - 이력서 : [개발경력 이력서](https://ldk-hub.github.io/about/)
+ - 포트폴리오 :[어드민 대시보드 포트폴리오](https://ldk-hub.github.io/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/realtime_system/)
  - 블로그 : https://ldk-hub.github.io/
 
 <div align="center">
