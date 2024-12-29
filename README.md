@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/MicrosoftAzure-0078D4?style=flat&logo=MicrosoftAzure&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/></a>&nbsp
-<img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JPA-FF6C2C?style=flat&logo=&logoColor=white"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=black"/></a>&nbsp  
 <img src="https://img.shields.io/badge/AmazonECS-FF9900?style=flat&logo=AmazonECS&logoColor=white"/></a>&nbsp
