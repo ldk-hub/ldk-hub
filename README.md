@@ -1,6 +1,6 @@
-이력서 : https://ldk-hub.github.io/about/
-포트폴리오 : https://github.com/ldk-hub/DashBoard
-블로그 : https://ldk-hub.github.io/
+ - 이력서 : https://ldk-hub.github.io/about/
+ - 포트폴리오 : https://github.com/ldk-hub/DashBoard
+ - 블로그 : https://ldk-hub.github.io/
 
 <div align="center">
 <div align="center">
