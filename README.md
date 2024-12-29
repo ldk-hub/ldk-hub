@@ -1,9 +1,13 @@
+이력서 : https://ldk-hub.github.io/about/
+포트폴리오 : https://github.com/ldk-hub/DashBoard
+블로그 : https://ldk-hub.github.io/
+
 <div align="center">
 <div align="center">
 <h2 align="center">Back-end stack🛠️</h2></div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/QueryDSL-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=black"/><br></a>&nbsp
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=black"/></a>&nbsp
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=black"/></a>&nbsp
