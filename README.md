@@ -44,11 +44,4 @@
 <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/svn-FFB13B?style=flat&logo=&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white"/></a>&nbsp<br>
-
-<div align=center> <h3>:astronaut: 관심 및 스터디</h3> </div>
-<img src="https://img.shields.io/badge/MSA-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp</a>&nbsp
-<img src="https://img.shields.io/badge/EffectiveJava-007396?style=flat&logo=Java&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat&logo=iCloud&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/k8s-326CE5?style=flat&logo=kubernetes&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/kafka-231F20?style=flat&logo=Apache Kafka&logoColor=white"/></a>&nbsp<br>
 </div>
