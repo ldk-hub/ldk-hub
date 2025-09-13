@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lee Dongok</h1>
 
 <p align="center">
-  Java Backend Developer | 7+ years of experience<br>  
+  Java Backend Developer | 8+ years of experience<br>  
   Vibe Coding & Clean Code & Scalable Architecture enthusiast
 </p>
 
