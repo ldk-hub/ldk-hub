@@ -64,9 +64,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldk-hub&show_icons=true&theme=default" alt="ldk-hub GitHub stats"/>
-</p>
