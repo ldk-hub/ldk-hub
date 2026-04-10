@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lee Dongok (ldk-hub)
+# 👋 Hi, I'm Lee Dongok
 
 > **Backend & AI Integration Developer | 8+ years of experience**  
 > _Vibe Coding, BMAD, RAG(Spring AI), Clean Code & Scalable Architecture enthusiast_
@@ -50,13 +50,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldk-hub&show_icons=true&theme=radium" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldk-hub&layout=compact&theme=radium" alt="Top Langs" width="48%" />
 </p>
