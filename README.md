@@ -1,5 +1,3 @@
----
-
 # 👋 Hi, I'm Lee Dongok
 
 > **Full-Stack Software Engineer & AI Integration Architect**  
