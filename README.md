@@ -1,17 +1,19 @@
+---
+
 # 👋 Hi, I'm Lee Dongok
 
-> **Backend & AI Integration Developer | 8+ years of experience**  
-> _Vibe Coding, BMAD, RAG(Spring AI), Clean Code & Scalable Architecture enthusiast_
+> **Full-Stack Software Engineer & AI Integration Architect**  
+> "복잡한 비즈니스 요구사항을 유연한 백엔드 아키텍처와 최적화된 프론트엔드 UX로 풀어내는 문제 해결사입니다."
 
-📄 [경력기술서](https://ldk-hub.github.io/about/) ・ 📊 [포트폴리오 - Admin Dashboard](https://ldk-hub.github.io/%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C/realtime_system/) ・ ✍️ [개발 블로그](https://ldk-hub.github.io/)
+📄 **[Technical Portfolio (포트폴리오)](https://ldk-hub.github.io/portfolio/)** ・ ✍️ **[Devlog (기술 블로그)](https://ldk-hub.github.io/)** ・ 👤 **[경력 및 소개](https://ldk-hub.github.io/about/)**
 
 ---
 
-### 💡 Recent Highlights (최근 주요 수행 내역)
+### 💡 Core Engineering Highlights
 
-- 🤖 **AI-Native Engineering:** `Spring AI` 기반 RAG(검색 증강 생성) 프롬프트 시스템 및 LLM 백엔드 아키텍처 구축 (MCP 연동)
-- 📈 **Agile & AI Monitoring:** Vibe Coding 방법론에 입각한 `BMAD 자율 에이전트` 실시간 2D 모니터링 시스템 스캐폴딩 및 최적화
-- ⚙️ **Scalable Architecture:** 대규모 데이터/접속자를 처리하는 엔터프라이즈 환경하의 MSA(Spring Cloud), 대시보드 백엔드 설계 및 구축
+- 🤖 **Next-Gen AI Ecosystem:** `Spring AI`와 `pgvector`를 결합한 에이전트 지식 베이스(KB) 및 시맨틱 검색 파이프라인 구축.
+- 🎨 **Frontend Rendering Optimization:** `Konva.js(Canvas API)`를 활용한 2.5D Y-Sorting 알고리즘 및 60FPS 픽셀아트 기반 자율 에이전트 모니터링 시스템 구축. ([bmad-2d-monitor](https://github.com/ldk-hub/bmad-2d-monitor))
+- ⚙️ **Scalable Enterprise Architecture:** Oracle ➔ PostgreSQL 마이그레이션, JPA N+1 쿼리 최적화 및 Proxy 아키텍처를 적용한 실시간 하이브리드 통합 대시보드 구축. ([DashBoard](https://github.com/ldk-hub/DashBoard))
 
 ---
 
@@ -50,4 +52,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ldk-hub&show_icons=true&theme=radical" alt="ldk-hub's GitHub stats" />
 </p>
