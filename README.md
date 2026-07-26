@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer & AI Integration Architect**  
 *"복잡한 비즈니스 요구사항을 유연한 백엔드 아키텍처와 최적화된 프론트엔드 UX로 풀어내는 문제 해결사입니다."*
 
-📄 [Technical Portfolio (포트폴리오)](https://ldk-hub.github.io/portfolio/) • ✍️ [Devlog (기술 블로그)](https://ldk-hub.github.io/) • 👤 [경력 및 소개](https://ldk-hub.github.io/about/)
+📄 [포트폴리오](https://ldk-hub.github.io/ai-weekly/) • ✍️ [Devlog (기술 블로그)](https://ldk-hub.github.io/) • 👤 [경력 및 소개](https://ldk-hub.github.io/about/)
 
 ---
 
