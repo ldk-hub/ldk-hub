@@ -3,14 +3,13 @@
 **Full-Stack Software Engineer & AI Integration Architect**  
 *"복잡한 비즈니스 요구사항을 유연한 백엔드 아키텍처와 최적화된 프론트엔드 UX로 풀어내는 문제 해결사입니다."*
 
-📄 [포트폴리오](https://ldk-hub.github.io/ai-weekly/) • ✍️ [Devlog (기술 블로그)](https://ldk-hub.github.io/) • 👤 [경력 및 소개](https://ldk-hub.github.io/about/)
+📄 [포트폴리오](https://ldk-hub.github.io/project/ai/ai-weekly-review/) • ✍️ [Devlog (기술 블로그)](https://ldk-hub.github.io/) • 👤 [경력 및 소개](https://ldk-hub.github.io/about/)
 
 ---
 
 ## 💡 Core Engineering Highlights
 
 * 📰 **Automated AI Curation Pipeline**: 로컬 크롬 세션 기반 안티봇 우회 크롤러와 Gemini AI를 결합하여 매일/매주 AI 트렌드를 자동 수집, 요약, 배포하는 서버리스 큐레이션 파이프라인 구축 ([ai-weekly](https://github.com/ldk-hub/ai-weekly) | [웹사이트](https://ldk-hub.github.io/ai-weekly/))
-* 🤖 **Next-Gen AI Ecosystem**: Spring AI 와 pgvector 를 결합한 에이전트 지식 베이스(KB) 및 시맨틱 검색 파이프라인 구축
 * 🎨 **Frontend Rendering Optimization**: Konva.js(Canvas API) 를 활용한 2.5D Y-Sorting 알고리즘 및 60FPS 픽셀아트 기반 자율 에이전트 모니터링 시스템 구축 ([bmad-2d-monitor](https://github.com/ldk-hub/bmad-2d-monitor))
 * ⚙️ **Scalable Enterprise Architecture**: Oracle -> PostgreSQL 마이그레이션, JPA N+1 쿼리 최적화 및 Proxy 아키텍처를 적용한 실시간 하이브리드 통합 대시보드 구축 ([DashBoard](https://github.com/ldk-hub/DashBoard))
 
@@ -46,6 +45,5 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldk-hub&show_icons=true&theme=radical&hide_border=true&border_radius=5" alt="ldk-hub's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ldk-hub&theme=radical&hide_border=true&border_radius=5" alt="ldk-hub's GitHub Streak" />
 </div>
